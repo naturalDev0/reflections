@@ -1,0 +1,75 @@
+---------------------------------------------------------------------------------
+|		Lesson 3: Creating and Modifying a Respository			|
+---------------------------------------------------------------------------------
+					|
+					|
+					|
+---------------------------------------------------------------------------------
+Reflect: Initializing a Repository
+---------------------------------------------------------------------------------
+Question 1: What happens when you initialize a repository? Why do you need to do it?
+
+- Basically, you create a new library or new project in a sense, so that you can
+seperate and distinguish how many different projects you have created, and they
+certainly won't have to share the same staging environment.
+
+---------------------------------------------------------------------------------
+Reflect: Staging Area 
+---------------------------------------------------------------------------------
+Question 2: How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+- Giving second layer of support before actually commiting the real deal. It sort
+of prevents you from making the permanent mistake where things might ended up not
+be able to recover.
+
+---------------------------------------------------------------------------------
+Reflect: Commit Size 
+---------------------------------------------------------------------------------
+Question 3: How can you use the staging area to make sure you have one commit per
+logical change?
+
+- Checking the status right one commit, to ensure that you're making the right
+logical change.
+
+---------------------------------------------------------------------------------
+Reflect: When to Use Branches 
+---------------------------------------------------------------------------------
+Question 4: What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+- Testing out different versions. I believe it gives developer the flexbility and
+the power to manipulate their projects in terms of areas to experiment with new
+features that they would like to implement it.
+
+---------------------------------------------------------------------------------
+Reflect: Visualizing with Diagrams 
+---------------------------------------------------------------------------------
+Question 5: How do the diagrams help you visualize the branch structure?
+
+- Simply just like a mind map or tree map you call it? It certainly helps you
+just which and where the commits were broke into.
+
+
+---------------------------------------------------------------------------------
+Reflect: Merging Two Branches 
+---------------------------------------------------------------------------------
+Question 6: What is the result of merging two branches together? Why do we repre-
+sent it in the diagram the way we do?
+
+- A complete set of program at the end result. Easier way of visualizing how the
+communication of data flows to one another.
+
+---------------------------------------------------------------------------------
+Reflect: Automatic vs. Manual Merging 
+---------------------------------------------------------------------------------
+Question 7: What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+- Pros:
+Automatic; It saves you from editing it line by line.
+Manual; It allows you to check line by line when error occurs.
+
+- Cons:
+Automatic; It prevents you from merging when there are similar line changes.
+Manual; Takes too much of your time to look through and compile the issue.
