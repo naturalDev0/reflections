@@ -1,0 +1,68 @@
+-----------------------------------------------------------------------------------------
+Lesson 1: Navigating a Commit History
+-----------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------
+Reflect: Using diff to Find Bugs
+-----------------------------------------------------------------------------------------
+Question 1:
+- How did viewing a diff between two versions help you spot the bug?
+
+The process has given me a lighter job in comparing two piles of codes with the
+help of bash, instead of using by hands.
+
+-----------------------------------------------------------------------------------------
+Reflect: Using History for Efficiency
+-----------------------------------------------------------------------------------------
+Question 2: How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+- Easy management of amendments and being accountable to one's work. 
+
+-----------------------------------------------------------------------------------------
+Reflect: Manual Commits
+-----------------------------------------------------------------------------------------
+Question 3: What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+- Pros
+Git, able to create multiple commits that can be used to compared line by line.
+Google Docs, periodically saved each amendments and that saves the user from accidentally
+	forgetting to save their own works.
+
+- Cons 
+Git, individual commits evaluation.
+Google Docs, individual commits evaluation.
+
+-----------------------------------------------------------------------------------------
+Reflect: Mutli-File Commits
+-----------------------------------------------------------------------------------------
+Question 4: Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file spearately?
+
+- It might be related to Database? or Rich-Text Format documents (.docx,etc)?
+
+-----------------------------------------------------------------------------------------
+Reflect: Using Git to View History 
+-----------------------------------------------------------------------------------------
+Question 5: How can you use the commands git log and git diff to view the history of files?
+
+- Verifying and comparing different amendments of the codes before making any commits.
+
+-----------------------------------------------------------------------------------------
+Reflect: Confidence from Version Control 
+-----------------------------------------------------------------------------------------
+Question 6: How might using version control make you more confident to make changes that
+could break something?
+
+- It gives the privillege to check which commits that possess the fault, one by another
+just to make sure you won't accidentally save the wrong ones for the main project.
+
+-----------------------------------------------------------------------------------------
+Reflect: How Do You Want to Use Git? 
+-----------------------------------------------------------------------------------------
+Question 7: What do you want to try using Git for?
+
+- VERSION CONTROL! and also not to forget to keep up with the times of technology advance-
+ment.
+-----------------------------------------------------------------------------------------
